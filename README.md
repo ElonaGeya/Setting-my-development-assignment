@@ -122,4 +122,22 @@ Here's how you go about it:
 -  Open the file on downloads, to start the set up.
 - Click "yes" for administrative priviledges.
 - When at the MySQL installer, choose custom on setup type options then next.
-- Click on all MySQL 
+- Click on all MySQL Servers under products until you get last one then click on the arrow pointing to the right. It will appear on products to be installed.
+- Repeat the same process with  MySQL workbench, then click next.
+![alt text](<WhatsApp Image 2024-06-23 at 18.36.01_54797bf7.jpg>)
+- Click execute on installation.
+- Proceed to product configuration once both products are installed
+- Click next when it is ready to configure
+- Click next on authentification method.
+- Set up password and proceed.
+- Proceed on windows service default picking.
+- Proceed on Server file Permissions default picking.
+- Execute configuration,
+- Proceed on all.
+- Your MySQL has been installed.
+
+8. On exploring Plugins and Extensions on Vscode.
+The  following depicts a few extensions i use in my IDE for 
+Syntax Highlighting, Code Formatting and other extentions
+![alt text](<Screenshot (7)-1.png>) 
+ 
